@@ -21,7 +21,7 @@
       }
     },
     "web": {
-      "favicon": "./assets/boom.png"
+      "favicon": "./assets/favicon.png"
     }
   }
 }
